@@ -1,5 +1,6 @@
 # Python-Web-Crawler-Learning
 Save the Sourse Code in tasks
+If you want to see details, go to see my CSDN blog: https://blog.csdn.net/jupiker/category_9930115.html
 
 ## 爬虫组队学习内容大纲
 
